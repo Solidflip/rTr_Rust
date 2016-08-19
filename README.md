@@ -2,7 +2,7 @@
 
 This is a simple way for us to track issues!
 
-Click the Issues label or click this [link](https://github.com/RTRGitHub/RTRRedux/issues) to start submitting an issue if you have one.
+Click the Issues label or click this [link](https://github.com/Solidflip/rTr_Rust/issues) to start submitting an issue if you have one.
 
 ***
 
